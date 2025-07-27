@@ -1,0 +1,134 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# New Path to Safari (22) - Arcanis Palace (32)
+22,South,0,32,North,1
+# Safari (142) - New Path to Safari (22)
+142,South,0,22,North,1
+# Arcanis Palace (32) - Route 015 (Remastered) (166)
+32,South,7,166,North,0
+# Island 2 (Remastered) (33) - Mythic Jungle Part 2 (Remastered) (172)
+33,East,0,172,West,92
+# Tiny Island Pitstop (92) - Island 2 (Remastered) (33)
+92,South,0,33,North,0
+# Battle Frontier (Edit) (79) - Island 2 (Remastered) (33)
+79,West,22,33,East,0
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Mythic Forest (43) - Mythic Jungle Part 2 (Remastered) (172)
+43,East,0,172,West,0
+# Mythic Forest (43) - Tiny Island Pitstop (92)
+43,South,0,92,North,0
+# Battle Frontier (Edit) (79) - Mythic Forest (43)
+79,West,0,43,East,70
+# Route 001 (48) - Iris Town (Remastered) (146)
+48,North,0,146,South,0
+# Island 1 Harbor (102) - Route 001 (48)
+102,West,0,48,East,25
+# Route to Island 1 Harbor (Remastered) (100) - Route 001 (48)
+100,West,0,48,East,0
+# Professor Area (109) - Route 001 (48)
+109,East,23,48,West,0
+# EmberGlow (110) - Route 001 (48)
+110,East,0,48,West,5
+# Path to Small Town (186) - Jewelend (63)
+186,North,0,63,South,0
+# The Arcade Area (207) - Jewelend (63)
+207,West,30,63,East,0
+# Professor Lab 3 (206) - Jewelend (63)
+206,South,0,63,North,0
+# DayCare (209) - Jewelend (63)
+209,East,30,63,West,0
+# Battle Frontier (Edit) (79) - Tiny Island Pitstop (92)
+79,West,7,92,East,0
+# Elysium Outside (81) - Victory Isle (162)
+81,South,3,162,North,0
+# Lerucean Town (117) - Mythic Waters (83)
+117,West,3,83,East,0
+# Tiny Island Pitstop (92) - Mythic Jungle Part 2 (Remastered) (172)
+92,East,0,172,West,77
+# Route to Island 1 Harbor (Remastered) (100) - Iris Town (Remastered) (146)
+100,North,0,146,South,36
+# Route to Island 1 Harbor (Remastered) (100) - Island 1 Harbor (102)
+100,South,0,102,North,0
+# Additional Sea (163) - Route to Island 1 Harbor (Remastered) (100)
+163,East,0,100,West,33
+# Additional Sea (163) - Island 1 Harbor (102)
+163,East,0,102,West,8
+# Professor Area (109) - Iris Town (Remastered) (146)
+109,East,8,146,West,0
+# Route 015 (Remastered) (166) - Professor Area (109)
+166,West,42,109,East,0
+# EmberGlow (110) - Professor Area (109)
+110,North,0,109,South,0
+# Secret Legend (147) - Professor Area (109)
+147,East,0,109,West,0
+# EmberGlow (110) - Iris Town (Remastered) (146)
+110,East,0,146,West,20
+# EmberGlow (110) - Route 015 (Remastered) (166)
+110,East,0,166,West,70
+# Secret Legend (147) - EmberGlow (110)
+147,East,28,110,West,0
+# Island 2 (118) - Lerucean Town (117)
+118,North,0,117,South,5
+# Mythic Town (134) - Starbyte Town (155)
+134,East,79,155,West,0
+# Shojo Path (154) - Mythic Town (134)
+154,West,0,134,East,0
+# Island 2 Professor Lab (157) - Mythic Town (134)
+157,North,0,134,South,0
+# Mythic Jungle Part 2 (Remastered) (172) - Mythic Town (134)
+172,East,8,134,West,0
+# Route 015 (Remastered) (166) - Iris Town (Remastered) (146)
+166,South,0,146,North,0
+# Iris Town (Remastered) (146) - Arcanis Palace Hotel Floor Four (170)
+146,119,0,170,0,21
+# Shojo Path (154) - Starbyte Town (155)
+154,South,0,155,North,0
+# Island 2 Professor Lab (157) - Shojo Path (154)
+157,East,0,154,West,35
+# Path to Cave (159) - Shojo Path (154)
+159,East,0,154,West,70
+# Island 2 Professor Lab (157) - Starbyte Town (155)
+157,East,44,155,West,0
+# Path to Cave (159) - Starbyte Town (155)
+159,East,9,155,West,0
+# Mythic Jungle Part 2 (Remastered) (172) - Island 2 Professor Lab (157)
+172,East,43,157,West,0
+# Path to Cave (159) - Island 2 Professor Lab (157)
+159,North,0,157,South,0
+# Gouging Fire (214) - Island 4 (158)
+214,South,0,158,North,0
+# Path to Cave (159) - Mythic Jungle Part 2 (Remastered) (172)
+159,West,0,172,East,78
+# Actor Town (179) - Gouging Fire (214)
+179,South,10,214,North,0
+# Beach (183) - Path Secret Umbral Star Base (181)
+183,West,0,181,East,0
+# The Arcade Area (207) - Path to Small Town (186)
+207,West,55,186,East,0
+# DayCare (209) - Path to Small Town (186)
+209,East,55,186,West,0
+# Professor Lab 3 (206) - The Arcade Area (207)
+206,East,0,207,West,0
+# DayCare (209) - Professor Lab 3 (206)
+209,East,0,206,West,0
+# MAP249 (249) - MAP247 (247)
+249,South,0,247,North,32

@@ -1,0 +1,649 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = true
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = true
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = ...
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[GURA,Gawr Gura]
+LoseText = ...A
+Pokemon = PIPLUP,10
+Pokemon = VAPOREON,10
+Pokemon = GIBLE,10
+Pokemon = GYARADOS,10
+    Name = Shrimp
+    Shiny = true
+#-------------------------------
+[MORI,Mori Calliope]
+LoseText = Impressive
+Pokemon = DUSKNOIR,10
+Pokemon = SPIRITOMB,10
+Pokemon = JIGGLYPUFF,10
+Pokemon = GIRATINA,12
+#-------------------------------
+[KIARA,Kiara Takanashi]
+Items = MEGARING
+LoseText = Okay. But this… is just divine… exquisite
+Pokemon = HOOH,12
+Pokemon = BLAZIKEN,13
+Pokemon = VOLCARONA,14
+Pokemon = RAPIDASH,15
+Pokemon = LUXRAY,16
+    Shiny = true
+#-------------------------------
+[KYUUBI_1,Kyuubi]
+Items = MEGARING
+LoseText = ...damn
+Pokemon = GOLISOPOD,10
+Pokemon = TINKATON,10
+Pokemon = CERULEDGE,10
+Pokemon = GARCHOMP,10
+Pokemon = MEOWSCARADA,10
+Pokemon = GARDEVOIR,10
+    Item = GARDEVOIRITE
+#-------------------------------
+[CHAMPION_Cynthia,Cynthia]
+Items = MAXREVIVE,MEGARING
+LoseText = Before this you were just a beginner. Now you've climbed your way to the very top.
+Pokemon = SPIRITOMB,12
+    Moves = SHADOWBALL,DARKPULSE,PSYCHIC,SUCKERPUNCH
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = ROSERADE,14
+    Name = Rocky
+    Moves = DAZZLINGGLEAM,SHADOWBALL,SLUDGEBOMB,ENERGYBALL
+    AbilityIndex = 0
+    Item = EXPERTBELT
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+Pokemon = GASTRODON,14
+    Moves = SCALD,EARTHQUAKE,SLUDGEBOMB,ROCKTOMB
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = LUCARIO,12
+    Moves = AURASPHERE,DRAGONPULSE,FLASHCANNON,NASTYPLOT
+    Item = WISEGLASSES
+Pokemon = MILOTIC,21
+    Moves = RECOVER,MIRRORCOAT,ICEBEAM,SCALD
+    Ability = MARVELSCALE
+    Item = FLAMEORB
+    Shiny = true
+Pokemon = GARCHOMP,14
+    Moves = DRAGONCLAW,EARTHQUAKE,SWORDSDANCE,POISONJAB
+    Item = YACHEBERRY
+#-------------------------------
+[ELITEFOUR_Lorelei,Lorelei]
+LoseText = I guess it was me who had an Icy Defeat...
+Pokemon = DEWGONG,10
+Pokemon = REGICE,10
+#-------------------------------
+[YOUNGSTER,Luke]
+LoseText = Aw dammit...
+Pokemon = SWINUB,8
+#-------------------------------
+[RIVAL_Rosa,Rosa]
+LoseText = ...
+Pokemon = SERPERIOR,39
+Pokemon = DELIBIRD,30
+Pokemon = DEWOTT,29
+Pokemon = SHAYMIN,39
+#-------------------------------
+[RIVAL_LAVANA,Lavana]
+LoseText = ...
+Pokemon = TEPIG,7
+#-------------------------------
+[WILDCARD_Vulpixie,Vulpixie]
+LoseText = Hey you did good!
+Pokemon = VULPIX,23
+    Form = 1
+    Name = Pixie
+    Gender = female
+    Ball = PREMIERBALL
+Pokemon = LAPRAS,23
+    Gender = female
+Pokemon = GLACEON,23
+    Gender = female
+Pokemon = SUICUNE,23
+Pokemon = MILOTIC,23
+    Gender = female
+    Shiny = true
+Pokemon = NINETALES,23
+    Form = 1
+    Gender = female
+#-------------------------------
+[RIVAL_LAVANA,Lavana,1]
+LoseText = ...
+Pokemon = CHIKORITA,7
+#-------------------------------
+[RIVAL_LAVANA,Lavana,2]
+LoseText = ...
+Pokemon = PIPLUP,7
+#-------------------------------
+[CAPTAINKIDD,Captain Kidd]
+Items = MAXPOTION,MAXPOTION,MAXPOTION
+LoseText = I THOUGHT IT HAD STURDY!!!
+Pokemon = SQUIRTLE,20
+Pokemon = GYARADOS,23
+Pokemon = CRAMORANT,23
+Pokemon = ONIX,25
+    Ability = ROCKHEAD
+#-------------------------------
+[TRAPMASTER20,Astra]
+Items = MAXREVIVE,MAXREVIVE,MAXREVIVE,MAXPOTION,MAXPOTION,MAXPOTION,MAXPOTION,MEGARING
+LoseText = Congratulations. You've beaten my ultimate team
+Pokemon = MEWTWO,10
+    Shiny = true
+Pokemon = LUGIA,10
+    Shiny = true
+Pokemon = RAYQUAZA,10
+    Shiny = true
+Pokemon = ARCEUS,10
+    Shiny = true
+    Ball = MASTERBALL
+Pokemon = KYUREM,10
+    Shiny = true
+    Ball = MASTERBALL
+Pokemon = NECROZMA,10
+    Form = 1
+    IV = 31,30,20,29,25,15
+    EV = 0,0,0,0,0,0
+    Ball = MASTERBALL
+#-------------------------------
+[TRAPMASTER20,Astra,1]
+LoseText = Good job. You've made it through this beautiful little game of mine
+Pokemon = IRONVALIANT,10
+#-------------------------------
+[LEADER_Alpharad,Alpharad]
+Items = MEGARING
+LoseText = AAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+Pokemon = MUDKIP,23
+    Name = Pikachu
+    Moves = TOXIC,ICEBEAM,STRENGTH,SURF
+    Ability = VOLTABSORB
+    Item = LEFTOVERS
+    Nature = ADAMANT
+    Shiny = true
+    Ball = ORIGINBALL
+Pokemon = DODRIO,23
+    Name = DoDei
+    Moves = DRILLPECK
+Pokemon = PIPLUP,23
+    Name = Pikachu
+    Moves = BRINE,SURF,DRILLPECK,ICEBEAM
+    Gender = male
+    Ball = POKEBALL
+Pokemon = ABSOL,10
+    Item = ABSOLITE
+Pokemon = PORYGONZ,26
+#-------------------------------
+[RIVAL_LAVANA,Lavana,3]
+LoseText = ...
+Pokemon = BULBASAUR,10
+#-------------------------------
+[RIVAL_LAVANA,Lavana,4]
+LoseText = ...
+Pokemon = CHARMANDER,10
+#-------------------------------
+[RIVAL_LAVANA,Lavana,5]
+LoseText = ...
+Pokemon = SQUIRTLE,10
+Pokemon = WEEDLE,10
+#-------------------------------
+[RIVAL1,Dob,1]
+LoseText = ...
+Pokemon = SQUIRTLE,7
+#-------------------------------
+[DAWNPTFRONT,Jaiden Animations]
+LoseText = How? I've got 3 Nuzlockes on me!
+Pokemon = SWELLOW,23
+    Name = Ari
+Pokemon = CHATOT,23
+    Name = Tofu
+Pokemon = BLAZIKEN,23
+    Name = Teriyaki
+    Moves = PROTECT,SWORDSDANCE,BATONPASS,BRAVEBIRD
+    Ability = SPEEDBOOST
+    Item = LEFTOVERS
+    Nature = JOLLY
+    EV = 0,252,4,252,0,0
+    Ball = POKEBALL
+Pokemon = GASTRODON,23
+    Name = Swoop
+    Moves = BODYSLAM,EARTHQUAKE,SURF,RAINDANCE
+    Item = LEFTOVERS
+    Gender = male
+Pokemon = ENTEI,24
+    Name = DoDei
+    Ball = MASTERBALL
+#-------------------------------
+[CHACHA,Cha Cha]
+LoseText = ...
+Pokemon = KANGASKHAN,10
+    Item = KANGASKHANITE
+Pokemon = BLISSEY,10
+Pokemon = MAUSHOLD,10
+Pokemon = SINISTEA,10
+Pokemon = LUDICOLO,10
+#-------------------------------
+[VOID,Sinder]
+Items = MEGARING
+LoseText = ...
+Pokemon = HOUNDOOM,10
+    Item = HOUNDOOMINITE
+Pokemon = VANILLUXE,10
+Pokemon = ARCANINE,10
+Pokemon = CHANDELURE,10
+    Shiny = true
+Pokemon = GROWLITHE,10
+    Name = Charley
+#-------------------------------
+[NIGHTHUNTRESS,Nova]
+LoseText = What...? I have almost every legend... how is this possible?!
+Pokemon = RAGINGBOLT,20
+Pokemon = WALKINGWAKE,20
+Pokemon = URSHIFU,20
+#-------------------------------
+[NUMI,Numi]
+LoseText = ...
+Pokemon = ODDISH,10
+Pokemon = PORYGON,10
+Pokemon = SHROOMISH,10
+Pokemon = RILLABOOM,10
+Pokemon = MELOETTA,10
+#-------------------------------
+[GIWI,Giwi]
+LoseText = Snail Mary, Mother of Dirt, pray for us sinners, now and at the hour of our death
+Pokemon = SCOLIPEDE,23
+Pokemon = GASTRODON,23
+Pokemon = GIRATINA,23
+Pokemon = MAWILE,23
+Pokemon = REGISTEEL,23
+Pokemon = SPRIGATITO,23
+#-------------------------------
+[POKEMONTRAINER_Leaf,Leaf]
+LoseText = ...
+Pokemon = SNIVY,19
+#-------------------------------
+[AMALEE,AmaLee]
+Items = MEGARING
+LoseText = ...oh come on...! I clearly won that...!
+Pokemon = LUNALA,10
+    Name = Lillie
+Pokemon = LOPUNNY,10
+    Name = Shea
+Pokemon = BEEDRILL,10
+    Item = BEEDRILLITE
+Pokemon = VOLCARONA,10
+Pokemon = PRIMARINA,10
+Pokemon = SALAZZLE,10
+#-------------------------------
+[AMALEE,AmaLee,1]
+Items = MEGARING
+LoseText = ...
+Pokemon = HOOPA,10
+Pokemon = PORYGONZ,10
+    Name = Scuff
+Pokemon = BEEDRILL,10
+    Item = BEEDRILLITE
+Pokemon = VOLCARONA,10
+Pokemon = PRIMARINA,10
+Pokemon = SALAZZLE,10
+#-------------------------------
+[ELITEFOUR_Nissile,Nissile]
+LoseText = Aw...
+Pokemon = ZOROARK,30
+Pokemon = KINGAMBIT,30
+Pokemon = SYLVEON,30
+Pokemon = ARCANINE,30
+Pokemon = LUXRAY,30
+Pokemon = ZERAORA,30
+#-------------------------------
+[DPLADY,Grimm]
+LoseText = *evil giggle* Liked my team~?
+Pokemon = VAPOREON,19
+Pokemon = LOPUNNY,19
+Pokemon = GARDEVOIR,19
+Pokemon = BRAIXEN,19
+#-------------------------------
+[SUNFLOWERSMITH,sunflowersmith]
+LoseText = What...? Why didn't my Gender Typing show up...?
+Pokemon = SYLVEON,22
+    Name = Enbyeon
+Pokemon = RAPIDASH,22
+    Form = 1
+    Name = Reignbow
+Pokemon = ROSERADE,22
+    Name = TransRites
+Pokemon = AZUMARILL,22
+    Name = Toriel
+Pokemon = GARDEVOIR,22
+    Name = Skye
+Pokemon = GALLADE,22
+    Name = Atlas
+#-------------------------------
+[RENKO,Renko]
+LoseText = No...! My Pokémon...! My Nuzlocke...!
+Pokemon = SYLVEON,18
+#-------------------------------
+[CUPIE,Cupie]
+LoseText = ...
+Pokemon = NINETALES,10
+    Form = 1
+Pokemon = DRIFBLIM,10
+#-------------------------------
+[ELITEFOUR_LAVANA,Lavana]
+LoseText = I guess even my best team couldn't beat you. Shame.
+Pokemon = BAYLEEF,20
+#-------------------------------
+[ELITEFOUR_LAVANA,Lavana,1]
+LoseText = I guess even my best team couldn't beat you. Shame.
+Pokemon = PIGNITE,20
+#-------------------------------
+[ELITEFOUR_LAVANA,Lavana,2]
+LoseText = I guess even my best team couldn't beat you. Shame.
+Pokemon = PRINPLUP,20
+#-------------------------------
+[EVIL_VTuber_F1,Lina]
+LoseText = Dammit...! Boss's gonna be pissed...!
+Pokemon = BIDOOF,21
+#-------------------------------
+[ELITEFOUR_Caitlin,Caitlin]
+LoseText = As a Trainer, you are both excellent and elegant. Your Pokémon have class. I am glad to have battled you.
+Pokemon = MUSHARNA,30
+Pokemon = SIGILYPH,30
+Pokemon = REUNICLUS,30
+Pokemon = GOTHITELLE,30
+Pokemon = BRONZONG,30
+Pokemon = METAGROSS,30
+#-------------------------------
+[BRENDAN,Brendan]
+LoseText = Agh...! I seriously gotta heal my team?!
+Pokemon = GROVYLE,21
+#-------------------------------
+[IRONMOUSE,Ironmouse]
+LoseText = Nooooo...! My Cinnamorolls...!
+Pokemon = DACHSBUN,30
+Pokemon = FURFROU,30
+Pokemon = MASCHIFF,30
+Pokemon = FLAREON,30
+Pokemon = STOUTLAND,30
+#-------------------------------
+[AROMALADY,Spice]
+LoseText = ...
+Pokemon = BELLOSSOM,20
+Pokemon = WHIMSICOTT,20
+Pokemon = COTTONEE,20
+#-------------------------------
+[SILVERVALE,Silvervale]
+LoseText = ...
+Pokemon = SYLVEON,30
+Pokemon = ZOROARK,31
+#-------------------------------
+[SILVERVALE,Silvervale,1]
+LoseText = Wow, talk about impressive!
+Pokemon = SYLVEON,30
+Pokemon = ZOROARK,31
+#-------------------------------
+[VEDAL_NEURO,Vedal and Neuro-sama]
+Items = MEGARING
+LoseText = Neuro: What? No. This is impossible. We can't lose!
+Pokemon = SHINX,30
+Pokemon = PORYGON,30
+Pokemon = GENGAR,30
+    Item = GENGARITE
+Pokemon = WARTORTLE,30
+Pokemon = TORTERRA,30
+#-------------------------------
+[FILIAN,Filian]
+LoseText = No...! My snacks...!
+Pokemon = CHERUBI,30
+Pokemon = PICHU,30
+Pokemon = REGIGIGAS,30
+Pokemon = HITMONTOP,30
+Pokemon = OMANYTE,30
+Pokemon = GULPIN,30
+    Name = Deez
+#-------------------------------
+[SHYLILY,ShyLily]
+LoseText = Womp...?
+Pokemon = MILOTIC,30
+Pokemon = SPHEAL,30
+Pokemon = DONDOZO,30
+Pokemon = CLAUNCHER,30
+    Shiny = true
+Pokemon = SWAMPERT,30
+Pokemon = KYOGRE,30
+#-------------------------------
+[ELITEFOUR_KURO,Kuro]
+Items = MEGARING
+LoseText = Nicely done! Nice to know there's still some trainers out there with skill instead of fortune
+Pokemon = CINDERACE,30
+Pokemon = LUCARIO,30
+    Item = LUCARIONITE
+Pokemon = STARAPTOR,30
+Pokemon = MEOWSTIC,30
+    Gender = male
+Pokemon = MEOWSCARADA,30
+Pokemon = NINETALES,23
+    Form = 1
+#-------------------------------
+[ELITEFOUR_ROCKYJMOON,RockyJMoon]
+Items = MEGARING
+LoseText = Well, you beat me…..good job I guess.
+Pokemon = DRIFBLIM,30
+    Moves = SHADOWBALL,WILLOWISP,STRENGTHSAP,AIRSLASH
+    Ability = UNBURDEN
+    Item = SITRUSBERRY
+Pokemon = VOLCARONA,30
+    Moves = FIERYDANCE,QUIVERDANCE,GIGADRAIN,BUGBUZZ
+    Ability = FLAMEBODY
+    Item = HEAVYDUTYBOOTS
+Pokemon = GASTRODON,30
+    Form = 1
+    Moves = MUDDYWATER,RECOVER,EARTHPOWER,ICEBEAM
+    Ability = STICKYHOLD
+    Item = LEFTOVERS
+Pokemon = DECIDUEYE,30
+    Form = 1
+    Moves = LEAFBLADE,BULKUP,SUCKERPUNCH,TRIPLEARROWS
+    Ability = SCRAPPY
+    Item = COBABERRY
+Pokemon = NAGANADEL,30
+    Moves = DRAGONPULSE,TOXIC,VENOSHOCK,FLAMETHROWER
+    Ability = BEASTBOOST
+    Item = BLACKSLUDGE
+Pokemon = GARDEVOIR,30
+    Moves = PSYCHIC,AURASPHERE,MYSTICALFIRE,HYPERBEAM
+    Ability = PIXILATE
+    Item = GARDEVOIRITE
+    Shiny = true
+#-------------------------------
+[SPITE,Spite]
+LoseText = What? No! How did you do that?!
+Pokemon = HOUNDOOM,30
+Pokemon = MIMIKYU,30
+Pokemon = GENGAR,30
+Pokemon = ZORUA,39
+Pokemon = TOXTRICITY,30
+Pokemon = GUMSHOOS,30
+#-------------------------------
+[ACETRAINER_M,Ivo]
+LoseText = ...
+Pokemon = BLASTOISE,30
+#-------------------------------
+[POKEMONTRAINER_Hilda,Jaxon]
+LoseText = ...
+Pokemon = EMBOAR,30
+#-------------------------------
+[VOID,Yhasfdy]
+LoseText = ...
+Pokemon = DRAGALGE,10
+Pokemon = GROVYLE,10
+Pokemon = GARCHOMP,10
+#-------------------------------
+[ABOMINACEON_1,Abominaceon]
+LoseText = ...
+Pokemon = GIRATINA,10
+Pokemon = ZYGARDE,10
+Pokemon = DEOXYS,10
+    Form = 3
+Pokemon = LUNALA,10
+    Shiny = true
+Pokemon = CHARIZARD,10
+    Form = 2
+Pokemon = TERAPAGOS,10
+    Form = 2
+#-------------------------------
+[CHARM_E,CharCharm_e]
+LoseText = wai- wait but how how could you that's not possible! that does not compute! that does not compute does not compute no compute not-
+Pokemon = SHINX,10
+Pokemon = SHELLDER,10
+Pokemon = ROTOM,10
+Pokemon = PORYGONZ,10
+Pokemon = PHANTUMP,10
+Pokemon = IRONVALIANT,10
+#-------------------------------
+[PROJEKT_MELODY,Projekt Melody]
+LoseText = ...
+Pokemon = PORYGONZ,10
+Pokemon = ROTOM,10
+Pokemon = RAICHU,10
+Pokemon = ZOROARK,10
+Pokemon = MIMIKYU,10
+#-------------------------------
+[HENYA,Henya]
+LoseText = ...
+Pokemon = PORYGON2,10
+Pokemon = ALAKAZAM,10
+Pokemon = SCIZOR,10
+Pokemon = METAGROSS,10
+Pokemon = MAGNEZONE,10
+#-------------------------------
+[CYYU,CyYu]
+LoseText = What?! I am going to physically puke, and it's all your fault...!
+Pokemon = LUCARIO,10
+    Name = Cyno
+Pokemon = CHARIZARD,10
+    Name = Leon
+Pokemon = COFAGRIGUS,10
+Pokemon = INCINEROAR,10
+    Name = Mask Royal
+Pokemon = MACHAMP,10
+    Name = Ahikiko

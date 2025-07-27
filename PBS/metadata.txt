@@ -1,0 +1,43 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 3,7,5,8
+StorageCreator = Trap
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Ethan
+WalkCharset = trainer_TRAINER_Ethan
+RunCharset = ethan_run
+CycleCharset = ethan_bike
+SurfCharset = ethan_surf
+DiveCharset = ethan_surf
+FishCharset = trainer_TRAINER_Ethan
+SurfFishCharset = trainer_TRAINER_Ethan
+#-------------------------------
+[2]
+TrainerType = Trainer_ORASMay
+WalkCharset = trainer_TRAINER_ORAS_May
+RunCharset = ORASMay_run
+CycleCharset = ORASMay_bike
+SurfCharset = ORASMay_surf
+DiveCharset = ORASMay_surf
+FishCharset = ORASMay_fish_offset
+SurfFishCharset = ORASMay_fish_offset
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_Maribel
+WalkCharset = trainer_TRAINER_Maribel
+RunCharset = maribel_run
+CycleCharset = maribel_bike
+SurfCharset = maribel_surf
+DiveCharset = maribel_surf
+FishCharset = maribel_fish_offset
+SurfFishCharset = maribel_fish_offset
